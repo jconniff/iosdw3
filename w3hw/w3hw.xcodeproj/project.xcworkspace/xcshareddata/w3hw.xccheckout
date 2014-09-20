@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>42D91277-4907-4B91-B19B-7F3054D12216</string>
+	<key>IDESourceControlProjectName</key>
+	<string>w3hw</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>17297860B97D6F5EC6A630852C7F6B1DAC34A10E</key>
+		<string>github.com:jconniff/iosdw3.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>w3hw/w3hw.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>17297860B97D6F5EC6A630852C7F6B1DAC34A10E</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:jconniff/iosdw3.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>17297860B97D6F5EC6A630852C7F6B1DAC34A10E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>17297860B97D6F5EC6A630852C7F6B1DAC34A10E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iosdw3</string>
+		</dict>
+	</array>
+</dict>
+</plist>
